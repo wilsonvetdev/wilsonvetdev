@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on my Module 3 project at Flatiron utilizing vanilla JS and a rails API that I built.
+- 🔭 I’m currently working on my Module 3 project(a-little-bid) at Flatiron utilizing vanilla JS and a rails API that I built.
 - 🌱 I’m currently practicing DOM manipulation and AJAX.
 - 💬 Check out my professional blog posts at https://medium.com/@wilsonvetdev 
 - 📫 How to reach me: https://www.linkedin.com/in/wilsonvetdev/
