@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently finished with my Module 3 project(a-little-bid) at Flatiron utilizing vanilla JS and a rails API that I built.
 - 🌱 I’m currently learning React!!!
-- 🤔 I’m looking for help with making more meaningful connections, and landing my first role as a web developer.
+- 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
 - 💬 Check out my professional blog posts at https://medium.com/@wilsonvetdev 
 - 📫 How to reach me: https://www.linkedin.com/in/wilsonvetdev/
 - 😄 Pronouns: he/him/his
