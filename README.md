@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love tequila and fitness equally!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilsonvetdev&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilsonvetdev&show_icons=true&theme=nord)
