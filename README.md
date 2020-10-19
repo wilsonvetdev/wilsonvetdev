@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - ⚓️ US Navy Veteran
-- 🌱 Learning React at the moment!
+- 🌱 Learning React at the moment and working on a new project. Check out the repos that start with job-basket!
 - 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
 - 💬 Check out my professional blog posts at https://medium.com/@wilsonvetdev 
 - 📫 How to reach me: https://www.linkedin.com/in/wilsonvetdev/
