@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love tequila and fitness equally!
 
 ### Live Project Demos
-- wyn-hangry.herokuapp.com
-- wynwaldo.herokuapp.com
-- jobbasket-app.herokuapp.com
+- https://jobbasket-app.herokuapp.com/
+- https://wyn-hangry.herokuapp.com/
+- https://wynwaldo.herokuapp.com/
+
 
 ### None-Live Projects(pictures and gifs attached in repos)
 - a-little-bid
