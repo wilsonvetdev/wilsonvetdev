@@ -23,5 +23,10 @@ Here are some ideas to get you started:
 - wynwaldo.herokuapp.com
 - jobbasket-app.herokuapp.com
 
+### None-Live Projects(pictures and gifs attached in repos)
+- a-little-bid
+- ATM-locator
+- word-of-mouth
+
 ### Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilsonvetdev&show_icons=true&theme=nord)
