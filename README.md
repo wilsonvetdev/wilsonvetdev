@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - ⚓️ US Navy Veteran
 - 🌱 Learning React and Redux at the moment and working on the ideation process of my capstone project at Flatiron School. 
-- 🐥 Check out the repos that start with job-basket - my latest Rails + React project that I completed in five days!
+- 🐥 Check out the repos that start with job-basket - my latest Rails + React project that I recently completed in five days!
 - 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
 - 💬 Check out my professional blog posts at https://medium.com/@wilsonvetdev 
 - 📫 How to reach me: https://www.linkedin.com/in/wilsonvetdev/
