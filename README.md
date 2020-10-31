@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 ### None-Live Projects(pictures and gifs attached in repos)
-- a-little-bid
-- ATM-locator
-- word-of-mouth
+- https://github.com/wilsonvetdev/a-little-bid-frontend
+- https://github.com/wilsonvetdev/ATM-Locator
+- https://github.com/wilsonvetdev/word-of-mouth
 
 ### Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilsonvetdev&show_icons=true&theme=nord)
