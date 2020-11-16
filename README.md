@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - ⚓️ US Navy Veteran
-- 🌱 Learning React and Redux at the moment and working on my capstone project at Flatiron School. 
+- 🌱 Learning Algorithms and Data Structures at the moment. 
 - 🐥 Check out the repos that start with solelypets - my latest Rails + React/Redux capstone project for Flatiron.
 - 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
 - 💬 Check out my professional blog posts at https://medium.com/@wilsonvetdev 
