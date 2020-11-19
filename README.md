@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 ### None-Live Projects(pictures and gifs attached in repos)
+- https://github.com/wilsonvetdev/solelypets-frontend
 - https://github.com/wilsonvetdev/a-little-bid-frontend
 - https://github.com/wilsonvetdev/ATM-Locator
 - https://github.com/wilsonvetdev/word-of-mouth
