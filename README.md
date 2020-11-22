@@ -19,7 +19,7 @@ https://www.linkedin.com/in/wilsonvetdev/ or https://wilson-vetdev.me/
 
 <a href='https://medium.com/@wilsonvetdev' targe='blank'>
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp;
 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love tequila and fitness equally!
