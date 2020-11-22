@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img alt='typescript' src='https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white' />
   <img alt='ruby' src='https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white' />
   <img alt='rails' src='https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white' />
-  <img alt='python' src='ttps://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white' />
+  <img alt='python' src='https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white' />
 </p>
 
 ### Live Project Demos
