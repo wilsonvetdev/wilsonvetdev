@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
 - 💬 Check out my professional blog posts here:
 <a href="https://medium.com/@wilsonvetdev">
-<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+  <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+ </a>
+
 - 📫 How to reach me: 
+
 https://www.linkedin.com/in/wilsonvetdev/ or https://wilson-vetdev.me/
 
 - 😄 Pronouns: he/him/his
