@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 🌱 Learning Algorithms and Data Structures at the moment. 
 - 🐥 Check out the repos that start with solelypets - my latest Rails + React/Redux capstone project for Flatiron.
 - 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
-- 💬 Check out my professional blog posts at https://medium.com/@wilsonvetdev 
+- 💬 Check out my professional blog posts here:
+<a href="https://medium.com/@wilsonvetdev">
+<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 - 📫 How to reach me: 
 https://www.linkedin.com/in/wilsonvetdev/ or https://wilson-vetdev.me/
-
-<a href="https://medium.com/@wilsonvetdev" target="_blank">
-<img align="left" alt="medium" src="/" />
-</a>
 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love tequila and fitness equally!
