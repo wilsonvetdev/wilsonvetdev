@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 https://www.linkedin.com/in/wilsonvetdev/ or https://wilson-vetdev.me/
 
-<a href='https://medium.com/@wilsonvetdev' targe='_blank'>
-<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>&nbsp;&nbsp;
+<a href="https://medium.com/@wilsonvetdev" target="_blank">
+<img align="left" alt="medium" src="/" />
+</a>
 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love tequila and fitness equally!
