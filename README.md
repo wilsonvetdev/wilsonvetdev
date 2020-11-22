@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 <p>
   <img alt='html' src='https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white' />
   <img alt='css' src='https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white' />
-  <img alt='css' src='https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black' />
-  <img alt='css' src='https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-  <img alt='css' src='https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white' />
-  <img alt='css' src='https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white' />
-  <img alt='css' src='https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white' />
-  <img alt='css' src='https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white' />
+  <img alt='javascript' src='https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black' />
+  <img alt='react' src='https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+  <img alt='redux' src='https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white' />
+  <img alt='typescript' src='https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white' />
+  <img alt='ruby' src='https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white' />
+  <img alt='rails' src='https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white' />
+  <img alt='python' src='ttps://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white' />
 </p>
 
 ### Live Project Demos
