@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love tequila and fitness equally!
-- 💬 More of me here:
-<a href="https://medium.com/@wilsonvetdev">
+- 💬 More of me here:  <a href="https://medium.com/@wilsonvetdev">
   <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/wilsonvetdev/">
+</a> <a href="https://www.linkedin.com/in/wilsonvetdev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
