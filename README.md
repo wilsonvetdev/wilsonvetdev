@@ -53,4 +53,6 @@ Here are some ideas to get you started:
 - https://github.com/wilsonvetdev/word-of-mouth
 
 ### Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilsonvetdev&show_icons=true&theme=nord)
+<a href="https://github.com/wilsonvetdev">
+<img align="center" alt="wilson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wilsonvetdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nord" />
+</a>
