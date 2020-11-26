@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### None-Live Projects(pictures and gifs attached in repos)
 - React/Redux/Rails - https://github.com/wilsonvetdev/solelypets-frontend
 - Javascript/Rails - https://github.com/wilsonvetdev/a-little-bid-frontend
-- React(hooks)/Rails - https://github.com/wilsonvetdev/flix-o-mania 
+- React(hooks)/Rails - https://github.com/wilsonvetdev/flix-o-mania - youtube video link in repo
 - Ruby Command Line App - https://github.com/wilsonvetdev/ATM-Locator 
 - Ruby On Rails - https://github.com/wilsonvetdev/word-of-mouth
 
