@@ -41,16 +41,17 @@ Here are some ideas to get you started:
 </p>
 
 ### Live Project Demos
-- https://jobbasket-app.herokuapp.com/
-- https://wyn-hangry.herokuapp.com/
-- https://wynwaldo.herokuapp.com/
+- React/Rails - https://jobbasket-app.herokuapp.com/
+- React/Rails - https://wyn-hangry.herokuapp.com/
+- React https://wynwaldo.herokuapp.com/
 
 
 ### None-Live Projects(pictures and gifs attached in repos)
-- https://github.com/wilsonvetdev/solelypets-frontend
-- https://github.com/wilsonvetdev/a-little-bid-frontend
-- https://github.com/wilsonvetdev/ATM-Locator
-- https://github.com/wilsonvetdev/word-of-mouth
+- React/Redux/Rails - https://github.com/wilsonvetdev/solelypets-frontend
+- Javascript/Rails - https://github.com/wilsonvetdev/a-little-bid-frontend
+- React(hooks)/Rails - https://github.com/wilsonvetdev/flix-o-mania 
+- Ruby Command Line App - https://github.com/wilsonvetdev/ATM-Locator 
+- Ruby On Rails - https://github.com/wilsonvetdev/word-of-mouth
 
 ### Stats
 <a href="https://github.com/wilsonvetdev">
