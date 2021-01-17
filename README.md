@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 ### Live Project Demos
 - React/Rails - https://jobbasket-app.herokuapp.com/
 - React/Rails - https://wyn-hangry.herokuapp.com/
-- React https://wynwaldo.herokuapp.com/
+- React/NoBackEnd - https://flix-nom.herokuapp.com/ 
+- React/Rails https://wynwaldo.herokuapp.com/
 
 
 ### None-Live Projects(pictures and gifs attached in repos)
