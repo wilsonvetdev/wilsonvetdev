@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/wilsonvetdev/">
       <img alt="linkedin icon" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://devpost.com/wilsonvetdev?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img alt="devpost icon" src="https://img.shields.io/badge/devpost-%2312100E.svg?&style=for-the-badge&logo=devpost&logoColor=white" />
 </p>
 
