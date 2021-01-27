@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 ### 💬 More of me here:  
 <p>
   <a href="https://medium.com/@wilsonvetdev">
-    <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+    <img alt="medium icon" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a> 
   <a href="https://www.linkedin.com/in/wilsonvetdev/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img alt="linkedin icon" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="">
+    <img alt="devpost icon" src="https://img.shields.io/badge/devpost-%2312100E.svg?&style=for-the-badge&logo=devpost&logoColor=white" />
 </p>
 
 ### ⭐️ Skills:
