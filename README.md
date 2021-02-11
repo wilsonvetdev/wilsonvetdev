@@ -26,7 +26,8 @@ Here are some ideas to get you started:
       <img alt="linkedin icon" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://devpost.com/wilsonvetdev?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-    <img alt="devpost icon" src="https://img.shields.io/badge/devpost-%2312100E.svg?&style=for-the-badge&logo=devpost&logoColor=white" />
+    <img alt="devpost icon" src="https://img.shields.io/badge/devpost-%2312100E.svg?&style=for-the-badge&logo=devpost&logoColor=white" />'
+  </a>
 </p>
 
 ### ⭐️ Skills:
