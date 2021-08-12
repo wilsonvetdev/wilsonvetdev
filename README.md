@@ -56,8 +56,3 @@ Here are some ideas to get you started:
 - React(hooks)/Rails - https://github.com/wilsonvetdev/flix-o-mania - youtube video link in repo
 - Ruby Command Line App - https://github.com/wilsonvetdev/ATM-Locator 
 - Ruby On Rails - https://github.com/wilsonvetdev/word-of-mouth
-
-### Stats
-<a href="https://github.com/wilsonvetdev">
-<img align="center" alt="wilson's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wilsonvetdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nord" />
-</a>
