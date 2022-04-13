@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - ⚓️ US Navy Veteran -  https://wilson-vetdev.me/
-- 🌱 Learning Algorithms and Data Structures at the moment. 
+- 🌱 Product Analyst at WillowTree. 
 - 🐥 Check out 
 <a href='https://github.com/wilsonvetdev/solelypets-frontend' target='_blank'>solelypets repo</a> - my Rails + React/Redux capstone project for Flatiron.
 - 🤔 I’m looking forward to making more meaningful connections, and landing a role as a web developer or product owner.
